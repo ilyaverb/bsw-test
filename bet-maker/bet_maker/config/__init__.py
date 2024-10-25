@@ -1,0 +1,1 @@
+from bet_maker.config.default import settings
