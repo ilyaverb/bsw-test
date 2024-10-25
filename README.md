@@ -29,7 +29,7 @@ To build and start all the required containers, run the following commands:
 ```bash
 cd ./bet-maker
 docker-compose up --build 
-cd ../line-provider
+cd ./line-provider
 docker-compose up --build
 ```
 
