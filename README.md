@@ -34,6 +34,6 @@ docker-compose up --build
 ```
 
 ### Step 5: Usage
-RabbitMQ admin panel: http://0.0.0.0:15672
-Line-provider service docs: http://0.0.0.0:8001/docs
-Bet-maker service docs: http://0.0.0.0:8002/docs
+RabbitMQ admin panel: http://0.0.0.0:15672  
+Line-provider service docs: http://0.0.0.0:8001/docs  
+Bet-maker service docs: http://0.0.0.0:8002/docs  
